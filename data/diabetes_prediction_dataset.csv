@@ -1,5 +1,4 @@
 ,gender,Age,hypertension,heart_disease,smoking_history,BMI,hbA1c_levels,blood_glucose_levels,diabetes
-,Female,80.0,0,0.1,No Info,27.32,3.5,90,0.2
 0.0,Female,67.0,0,0.0,No Info,27.32,4.5,80,0.0
 1.0,Female,58.0,0,1.0,No Info,27.32,6.5,90,0.0
 2.0,Male,2.0,0,0.0,never,18.41,6.2,100,0.0
